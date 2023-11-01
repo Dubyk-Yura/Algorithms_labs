@@ -1,1 +1,1 @@
-# Algorithms_labs
+Third laboratory work, 3 level 3 variant
